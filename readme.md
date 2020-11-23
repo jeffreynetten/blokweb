@@ -62,7 +62,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Breakdownschets (week 1)
 
--uitwerken voor de 1e werkgroep - eind van de eerste week-
+<img src="images/BREAKDOWNSCHETS.png" width="375px" alt="Gedeelte van de 2e pagina">
 
 
 
@@ -73,7 +73,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Je focus: surface plane** 
 
-**Je opdracht: https://www.supremenewyork.com/** 
+**Je opdracht: https://www.supremenewyork.com/index** 
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
