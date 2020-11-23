@@ -1,5 +1,4 @@
 /* CSS Document */
-}
 html {
   font: 100% / 250% "Helvetica";
 }
@@ -18,54 +17,52 @@ h2 {
 }
 
 body {
-  color: white ;
-  font-size:1.25em
+  color: white;
+  font-size: 1.25em;
   display: flex;
-flex-direction: column;
-width: 100vw;
-height: 100vh;
+  flex-direction: column;
+  width: 100vw;
+  height: 100vh;
   background-image: url(../images/background.png);
   align-items: center;
   justify-content: center;
 }
 
 header {
-text-align: center;
-justify-content: center;
-margin-bottom: 66px;
+  text-align: center;
+  justify-content: center;
+  margin-bottom: 66px;
 }
 
 main {
   display: flex;
   position: relative;
   flex-direction: column;
-  justify-content: center'
-  padding: 20px ;
-  color: white ;
+  justify-content: center;
+  padding: 20px;
+  color: white;
 }
 
 main ul li {
   list-style: none;
-  padding: 10px ;
+  padding: 10px;
 }
 
 footer {
   display: flex;
   position: relative;
   flex-direction: column;
-  padding: 20px ;
-  color: white ;
-
+  padding: 20px;
+  color: white;
 }
 
-footer ul{
+footer ul {
   display: flex;
 }
 
-footer ul li{
-padding: 0 10px;
-list-style: none;
+footer ul li {
+  padding: 0 10px;
+  list-style: none;
 }
 
-.socialmediasize  {
-}
+.socialmediasize {}
