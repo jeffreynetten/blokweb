@@ -1,14 +1,13 @@
 /* CSS Document */
 *, *::after, *::before {
-  box-sizing:border-box;  
+  box-sizing:border-box;
 }
-
-/* Generic styling */
-* {
 
 }
 html {
   font: 100% / 250% "Helvetica";
+  display: flex;
+  align-items: center;
 }
 body {
   font-size:1.25em;
@@ -17,39 +16,39 @@ h1 {
   color:red;
 }
 h2 {
-  
+
 }
 p {
-  
+
 }
 ul {
-  
+
 }
 li {
-  
-} 
+
+}
 a {
-  
+
 }
 a:link {
-  
+
 }
 a:visited {
-  
+
 }
 a:hover, a:focus {
-  
+
 }
 a:active {
-  
+
 }
 button {
-  
+
 }
 
 /* form styling */
 form {
-  
+
 }
   fieldset {
 
@@ -69,7 +68,7 @@ form {
 
 /* Section styling */
 header {
-  
+
 }
   header h1 {
 
@@ -82,7 +81,7 @@ main {
 
   }
 section {
-  
+
 }
   section header {
 
@@ -91,7 +90,7 @@ section {
 
   }
 article {
-  
+
 }
   article header {
 
@@ -100,32 +99,32 @@ article {
 
   }
   article footer {
-  
+
   }
 
 aside {
-  
+
 }
 
 footer {
-  
+
 }
 
 /* Component styling */
 section#some-ultra-cool-component {
-  
+
 }
 
 
 /* Breakpoints */
 @media all and (min-width: 30em) {
-  
+
 }
 
 @media all and (min-width: 60em) {
-  
+
 }
 
 @media all and (min-width: 90em) {
-  
+
 }
