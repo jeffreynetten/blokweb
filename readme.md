@@ -67,13 +67,13 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Intake (week 1)
--uitwerken voor de kick-off werkgroep - begin van de eerste week-
+-uitwerken voor de kick-off werkgroep - 
 
-**Je startniveau: blauw** -kies uit zwart, rood óf blauw-
+**Je startniveau: blauw** 
 
-**Je focus: surface plane** -kies uit responsive óf surface plane-
+**Je focus: surface plane** 
 
-**Je opdracht: https://www.supremenewyork.com/** -link naar de website die je gaat namaken óf de naam van je eigen ontwerp-
+**Je opdracht: https://www.supremenewyork.com/** 
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
