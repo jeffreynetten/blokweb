@@ -62,18 +62,18 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Breakdownschets (week 1)
 
-<img src="images/BREAKDOWNSCHETS.png" width="375px" alt="Gedeelte van de 2e pagina">
+-uitwerken voor de 1e werkgroep - eind van de eerste week-
 
 
 
 ## Intake (week 1)
--uitwerken voor de kick-off werkgroep - 
+-uitwerken voor de kick-off werkgroep - begin van de eerste week-
 
-**Je startniveau: blauw** 
+**Je startniveau: blauw** -kies uit zwart, rood óf blauw-
 
-**Je focus: surface plane** 
+**Je focus: surface plane** -kies uit responsive óf surface plane-
 
-**Je opdracht: https://www.supremenewyork.com/index** 
+**Je opdracht: https://www.supremenewyork.com/** -link naar de website die je gaat namaken óf de naam van je eigen ontwerp-
 
 **Screenshot(s) van de eerste pagina (small screen):**
 

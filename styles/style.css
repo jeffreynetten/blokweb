@@ -1,130 +1,71 @@
 /* CSS Document */
-*, *::after, *::before {
-  box-sizing:border-box;
-}
-
 }
 html {
   font: 100% / 250% "Helvetica";
-  display: flex;
-  align-items: center;
 }
-body {
-  font-size:1.25em;
-}
+
 h1 {
-  color:red;
+  font-family: 'Be Vietnam', sans-serif;
+  font-size: 50px;
+  background: red;
+  margin: auto;
+  width: 250px;
+  height: 80px;
 }
+
 h2 {
-
-}
-p {
-
-}
-ul {
-
-}
-li {
-
-}
-a {
-
-}
-a:link {
-
-}
-a:visited {
-
-}
-a:hover, a:focus {
-
-}
-a:active {
-
-}
-button {
-
+  font-size: 15px;
 }
 
-/* form styling */
-form {
-
+body {
+  color: white ;
+  font-size:1.25em
+  display: flex;
+flex-direction: column;
+width: 100vw;
+height: 100vh;
+  background-image: url(../images/background.png);
+  align-items: center;
+  justify-content: center;
 }
-  fieldset {
 
-  }
-    legend {
-
-    }
-    label {
-
-    }
-    input {
-
-    }
-    input:invalid {
-
-    }
-
-/* Section styling */
 header {
-
+text-align: center;
+justify-content: center;
+margin-bottom: 66px;
 }
-  header h1 {
-
-  }
 
 main {
-
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  justify-content: center'
+  padding: 20px ;
+  color: white ;
 }
-  main button {
 
-  }
-section {
-
-}
-  section header {
-
-  }
-  section h2 {
-
-  }
-article {
-
-}
-  article header {
-
-  }
-  article h3 {
-
-  }
-  article footer {
-
-  }
-
-aside {
-
+main ul li {
+  list-style: none;
+  padding: 10px ;
 }
 
 footer {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  padding: 20px ;
+  color: white ;
 
 }
 
-/* Component styling */
-section#some-ultra-cool-component {
-
+footer ul{
+  display: flex;
 }
 
-
-/* Breakpoints */
-@media all and (min-width: 30em) {
-
+footer ul li{
+padding: 0 10px;
+list-style: none;
 }
 
-@media all and (min-width: 60em) {
-
-}
-
-@media all and (min-width: 90em) {
-
+.socialmediasize {
 }
